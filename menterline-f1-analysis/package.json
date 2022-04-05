@@ -1,6 +1,6 @@
 {
   "name": "menterline-f1-analysis",
-  "homepage":"https://menterline.github.com/menterline.github.io",
+  "homepage":"https://menterline.github.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
