@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/menterline/static/css/main.073c9b0a.css",
+    "main.js": "/menterline/static/js/main.144c0bdb.js",
+    "static/js/787.8a1f8e05.chunk.js": "/menterline/static/js/787.8a1f8e05.chunk.js",
+    "static/media/logo.svg": "/menterline/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/menterline/index.html",
+    "main.073c9b0a.css.map": "/menterline/static/css/main.073c9b0a.css.map",
+    "main.144c0bdb.js.map": "/menterline/static/js/main.144c0bdb.js.map",
+    "787.8a1f8e05.chunk.js.map": "/menterline/static/js/787.8a1f8e05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.144c0bdb.js"
+  ]
+}
